@@ -1,5 +1,14 @@
 # @primer/css
 
+## 20.4.4
+
+### Patch Changes
+
+- [#2218](https://github.com/primer/css/pull/2218) [`6205337b`](https://github.com/primer/css/commit/6205337b4c871b6ce431c8b211ddb0bbd176946f) Thanks [@langermank](https://github.com/langermank)! - - Adding readonly styles
+  - Fixing focus background color for inset field
+
+* [#2211](https://github.com/primer/css/pull/2211) [`8e5f6224`](https://github.com/primer/css/commit/8e5f62244192a8e2a191be7e7ad20d00f4b4bedb) Thanks [@imjohnbo](https://github.com/imjohnbo)! - Remove outline reset of `.SelectMenu-closeButton`
+
 ## 20.4.3
 
 ### Patch Changes
